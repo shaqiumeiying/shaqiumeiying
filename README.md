@@ -43,4 +43,4 @@ I’m a developer bridging the gap between high-level code and visual storytelli
 
 ### 🌐 Let's Connect
 - **Portfolio:** [xinyidou.fyi](https://xinyidou.fyi)
-- **LinkedIn:** [linkedin.com/in/xinyidou](https://linkedin.com/in/xinyidou)
+- **LinkedIn:** [linkedin.com/in/xinyidou](https://www.linkedin.com/in/xinyi-dou/)
